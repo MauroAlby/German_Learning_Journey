@@ -22,5 +22,56 @@ Tra le parole che ho incontrato finora, la mia preferita è stata *Tochter*, men
 Tutto il materiale accumulato nei primi dieci giorni, comprese parole e frasi, sarà riportato e aggiornato regolarmente negli appositi file: `VOCABOLI.md` , `FRASI.md` e `RISORSE` insieme a tutti i progressi futuri.
 
 ---
+
 Questo resoconto riassume sommariamente i primi dieci giorni del mio approccio al tedesco.  
 Da oggi (28 novembre 2025) ho deciso di creare questo progetto su GitHub per documentare tutto in modo organizzato, e il diario verrà aggiornato periodicamente, passo dopo passo, con nuovi progressi, parole, frasi e riflessioni.
+
+---
+
+# 📝 Diario – 29/11/2025
+
+Oggi ho studiato un po’ di tedesco su Duolingo e Busuu e ho imparato nuovi vocaboli e frasi.  
+Per chiarire alcune difficoltà grammaticali, ho chiesto aiuto a ChatGPT, che mi ha dato delle **regole fondamentali** da ricordare sempre.  
+
+---
+
+## 📚 Vocaboli e frasi imparati oggi
+
+### Vocaboli
+- der Italiener — die Italiener — l’italiano  
+- die Großmutter — die Großmütter — la nonna   
+- der Bahnhof — die Bahnhöfe — la stazione  
+
+### Frasi
+- Ich bin Italiener — Sono italiano  
+- Ich wohne in Italien — Abito in Italia  
+- Wo wohnst du? — Dove abiti?  
+- Woher kommst du? — Da dove vieni?  
+- Welche Sprachen sprichst du? — Quali lingue parli?  
+- Ich spreche Italienisch — Parlo italiano  
+- Ich spreche ein bisschen Deutsch — Parlo un po’ di tedesco  
+- Sprichst du Englisch? — Parli inglese?  
+- Was brauchst du? — Di cosa hai bisogno?  
+- Kein Problem — Nessun problema  
+- Der Bahnhof ist da drüben — La stazione è laggiù  
+- Sehr gut — Molto bene  
+
+---
+
+## 📖 Regole grammaticali fondamentali
+
+Oggi ho annotato alcune **regole chiave da tenere sempre a mente** che dovrò studiare bene:  
+
+1. **Verbo sempre al secondo posto** nella frase principale.  
+2. **Memorizzare i sostantivi con articolo e plurale**, così il genere e il plurale diventano immediatamente automatici.  
+3. **Struttura della frase**: soggetto + verbo + complementi (valido per frasi principali; nelle subordinate il verbo va alla fine).  
+4. **Ordine dei complementi**: Tempo → Kausa → Modo → Luogo (se presenti insieme).  
+5. **Domande dirette**: il verbo precede il soggetto (es. „Wo wohnst du?“).  
+6. **Aggettivi e accordo**: gli aggettivi cambiano forma a seconda di **genere, numero e caso** del sostantivo.  
+
+---
+
+## 📝 Note personali
+
+- Ho aggiornato i file **VOCABOLI.md** e **FRASI.md** seguendo il concetto di articolo + plurale.  
+- Ho notato una difficoltà nella pronuncia della parola **rechts** (destra), ma sono fiducioso che con la pratica migliorerò.  
