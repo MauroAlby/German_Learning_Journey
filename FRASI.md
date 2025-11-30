@@ -2,7 +2,7 @@
 
 Raccolta delle frasi che sto imparando.  
 Aggiornamento continuo.
-- Ultimo aggiornamento 29/11/2025
+- Ultimo aggiornamento 30/11/2025
 
 ---
 
@@ -27,7 +27,12 @@ Aggiornamento continuo.
 - Und du? — E tu?  
 - Was brauchst du? — Di cosa hai bisogno?  
 - Kein Problem — Nessun problema  
-- Sehr gut — Molto bene  
+- Sehr gut — Molto bene
+- Willkommen — (invariabile) — Benvenuto/Bentornato
+
+## 💬 Espressioni / Aggettivi utili
+- wirklich groß — (aggettivo) — davvero grande / veramente grande
+
 
 ## 👨‍👩‍👧‍👦 Famiglia
 - Das ist meine Mama — Questa è mia mamma  

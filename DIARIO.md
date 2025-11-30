@@ -75,3 +75,29 @@ Oggi ho annotato alcune **regole chiave da tenere sempre a mente** che dovrò st
 
 - Ho aggiornato i file **VOCABOLI.md** e **FRASI.md** seguendo il concetto di articolo + plurale.  
 - Ho notato una difficoltà nella pronuncia della parola **rechts** (destra), ma sono fiducioso che con la pratica migliorerò.  
+
+---
+
+
+# 📝 Diario – 30/11/2025
+Oggi non ho avuto molto tempo per studiare il tedesco, ma ho comunque dedicato qualche minuto a Duolingo per non interrompere il ritmo quotidiano. Anche con poco tempo sono riuscito a imparare alcuni nuovi vocaboli e a ripassare quelli già studiati. Tra le parole e frasi nuove di oggi ci sono:
+- die Bibliothek,
+- das Café,
+- der Keks,
+- der Kaffee,
+- die Milch,-
+- der Tee,
+- das Wasser,
+- Willkommen,
+- die Großeltern,
+- der Vater,
+- die Mutter,
+- die Freundin,
+- die Lieblingstochter
+- wirklich groß.
+
+(*In realtà alcuni li avevo già studiati, ma avevo dimenticato di caricarli.*)
+
+## 📝 Note personali
+Durante la giornata ho visto anche un breve video in cui una ragazza consigliava di iniziare ad ascoltare musica tedesca per abituare l’orecchio ai suoni della lingua. È un suggerimento interessante che vorrei provare a mettere in pratica già da domani, magari iniziando con qualche playlist semplice per principianti.
+Nonostante il poco tempo, sono soddisfatto di essere riuscito a dedicare almeno qualche minuto allo studio: anche nei giorni più pieni, mantenere la costanza è fondamentale.
