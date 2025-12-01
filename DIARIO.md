@@ -101,3 +101,34 @@ Oggi non ho avuto molto tempo per studiare il tedesco, ma ho comunque dedicato q
 ## 📝 Note personali
 Durante la giornata ho visto anche un breve video in cui una ragazza consigliava di iniziare ad ascoltare musica tedesca per abituare l’orecchio ai suoni della lingua. È un suggerimento interessante che vorrei provare a mettere in pratica già da domani, magari iniziando con qualche playlist semplice per principianti.
 Nonostante il poco tempo, sono soddisfatto di essere riuscito a dedicare almeno qualche minuto allo studio: anche nei giorni più pieni, mantenere la costanza è fondamentale.
+
+---
+
+# 📝 Diario – 01/12/2025
+
+Oggi ho studiato su **Duolingo**, ma mi sono reso conto che forse dovrei fermarmi e cercare di **consolidare tutto quello che ho fatto finora**. Ho notato che faccio difficoltà a ricordare anche le frasi più semplici, sintomo che non ho ancora assimilato bene questa prima parte del percorso.  
+Probabilmente nei prossimi giorni mi dedicherò a **ripassare con ChatGPT**, magari facendomi generare qualche esercizio basato su tutto ciò che ho imparato finora.  
+
+## 📚 Vocaboli e frasi apprese oggi
+
+Vocaboli:
+- Mann, Frau, Lehrer, Lehrerin, Bäcker, Bäckerin, Verkäufer, Musiker
+
+Frasi:
+
+- Sie ist meine Schwester — Lei è mia sorella
+- Er ist mein Bruder — Lui è mio fratello
+- Ist er dein Mann? — È tuo marito?
+- Dein Mann ist nett — Tuo marito è gentile
+- Ist dein Sohn Verkäufer? — Tuo figlio è venditore?
+- Ja, er ist Verkäufer — Sì, è venditore
+- Ist deine Frau Lehrerin? — Tua moglie è insegnante?
+
+---
+
+## 📝 Note personali
+
+L’**ascolto e la ripetizione** restano estremamente importanti: i suoni tedeschi sono particolari e spesso tra come le parole sono scritte e come si pronunciano passa un abisso.  
+Oggi ho anche ascoltato un po’ di **musica pop tedesca**; più avanti creerò una playlist delle canzoni che mi sono piaciute di più e le condividerò nel file **RISORSE.md**. Continuo anche a guardare la stessa puntata di **Peppa Pig**, e ogni volta che la rivedo riesco a cogliere qualche nuovo vocabolo e significato.
+
+---

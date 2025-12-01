@@ -2,7 +2,7 @@
 
 Raccolta delle frasi che sto imparando.  
 Aggiornamento continuo.
-- Ultimo aggiornamento 30/11/2025
+- Ultimo aggiornamento 01/12/2025
 
 ---
 
@@ -33,7 +33,6 @@ Aggiornamento continuo.
 ## 💬 Espressioni / Aggettivi utili
 - wirklich groß — (aggettivo) — davvero grande / veramente grande
 
-
 ## 👨‍👩‍👧‍👦 Famiglia
 - Das ist meine Mama — Questa è mia mamma  
 - Das ist mein Papa — Questo è mio papà  
@@ -41,6 +40,8 @@ Aggiornamento continuo.
 - Das ist mein Bruder — Questo è mio fratello  
 - Das ist mein Sohn — Questo è mio figlio  
 - Das ist meine Tochter — Questa è mia figlia  
+- Sie ist meine Schwester — Lei è mia sorella  
+- Er ist mein Bruder — Lui è mio fratello  
 
 ## ⚙️ Strutture di base
 - Ich bin — Io sono  
@@ -68,4 +69,11 @@ Aggiornamento continuo.
 
 ## ❓ Domande utili
 - Was möchtest du? — Cosa vorresti?  
-- Was für ein Buch liest du? — Che tipo di libro leggi?
+- Was für ein Buch liest du? — Che tipo di libro leggi?  
+- Ist er dein Mann? — È tuo marito?  
+- Ist dein Sohn Verkäufer? — Tuo figlio è venditore?  
+- Ist deine Frau Lehrerin? — Tua moglie è insegnante?  
+
+## 💬 Conversazione base
+- Dein Mann ist nett — Tuo marito è gentile  
+- Ja, er ist Verkäufer — Sì, è venditore

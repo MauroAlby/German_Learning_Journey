@@ -2,7 +2,7 @@
 
 Lista dei vocaboli che sto imparando, con articoli e traduzioni.  
 Verrà aggiornata quotidianamente.
-- Ultimo aggiornamento 30/11/2025
+- Ultimo aggiornamento 01/12/2025
 
 ---
 
@@ -31,21 +31,29 @@ Verrà aggiornata quotidianamente.
 - die Großeltern — (solo plurale) — i nonni
 - die Großmutter — die Großmütter — la nonna
 - der Großvater — die Großväter — il nonno
-- der Opa — die Opas — il nonno (modo informale, come “nonno/ nonnetto”)
+- der Opa — die Opas — il nonno (modo informale)
 - die Lieblingstochter — die Lieblingstöchter — la figlia preferita
+- der Mann — die Männer — l’uomo
+- die Frau — die Frauen — la donna
 
-## 🧑 Relazioni
+## 🧑 Professioni / Mestieri
 - die Freundin — die Freundinnen — l’amica / la fidanzata
+- der Lehrer — die Lehrer — l’insegnante (uomo)  
+- die Lehrerin — die Lehrerinnen — l’insegnante (donna)  
+- der Bäcker — die Bäcker — il panettiere  
+- die Bäckerin — die Bäckerinnen — la panettiera  
+- der Verkäufer — die Verkäufer — il venditore  
+- der Musiker — die Musiker — il musicista  
 
 ## 🍽️ Cibo
 - der Käse — il formaggio  
 - das Brot — die Brote — il pane  
 - das Schnitzel — die Schnitzel — la cotoletta
 - der Keks — die Kekse — il biscotto
-- der Kaffee — il Kaffee — il caffè (in tedesco invariabile, rarissimo il plurale)
-- die Milch — le Milchsorten (rare) — il latte (normalmente senza plurale)
+- der Kaffee — il Kaffee — il caffè (in tedesco invariabile)
+- die Milch — le Milchsorten (rare) — il latte
 - der Tee — die Tees — il tè
-- das Wasser — die Wasser — l’acqua (il plurale esiste ma si usa quasi mai; singolare sufficiente)
+- das Wasser — die Wasser — l’acqua
 
 ## 🏙️ Luoghi
 - der Bahnhof — die Bahnhöfe — la stazione  
@@ -54,7 +62,6 @@ Verrà aggiornata quotidianamente.
 - die Stadt — die Städte — la città
 - die Bibliothek — die Bibliotheken — la biblioteca
 - das Café — die Cafés — il bar / caffetteria
-
 
 ## 🎨 Aggettivi / Descrizioni
 - billig — economico  
