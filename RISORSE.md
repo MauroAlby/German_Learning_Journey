@@ -24,4 +24,9 @@ Una raccolta semplice e diretta dei contenuti che utilizzo o che consiglio per i
 
 ---
 
+## 🎥 TikTok
+
+- **Mini Podcast**
+  https://www.tiktok.com/@german.with.monique
+
 (Questo file verrà aggiornato man mano che scoprirò nuove risorse utili.)

@@ -132,3 +132,17 @@ L’**ascolto e la ripetizione** restano estremamente importanti: i suoni tedesc
 Oggi ho anche ascoltato un po’ di **musica pop tedesca**; più avanti creerò una playlist delle canzoni che mi sono piaciute di più e le condividerò nel file **RISORSE.md**. Continuo anche a guardare la stessa puntata di **Peppa Pig**, e ogni volta che la rivedo riesco a cogliere qualche nuovo vocabolo e significato.
 
 ---
+
+# 📔 Diario – 02/12/2025
+
+Oggi ho deciso di fermarmi un po’ con Duolingo perché voglio prima consolidare meglio tutti i vocaboli e le frasi che ho studiato fino ad ora. Ho chiesto aiuto a ChatGPT e uno dei consigli che mi ha dato è stato di usare un’app di flashcard per cercare di memorizzare meglio le parole e le frasi; devo ancora provarla, ma credo che possa essere molto utile.
+Per il resto continuo con l’ascolto: Peppa Pig in tedesco e qualche canzone tedesca, così mi abituo ai suoni e alla pronuncia. Oggi mi sono anche imbattuto in un profilo TikTok di una ragazza che fa mini slow podcast in tedesco; sembra una risorsa fantastica, quindi ho condiviso il link nel file RISORSE.md per non perderlo.
+
+Ho anche fatto controllare a ChatGPT i miei file VOCABOLI.md e FRASI.md e li abbiamo riformattati meglio: le parole e le frasi sono state suddivise nelle categorie corrette, con articoli e plurali dove servono, rendendo tutto più chiaro e facile da studiare.
+
+---
+
+## 📝 Note personali
+Sento che concentrarmi prima sul materiale già studiato mi sta aiutando a prendere più confidenza con la lingua, e questi piccoli ascolti quotidiani sono davvero piacevoli e utili per interiorizzare i suoni e le frasi.
+
+---

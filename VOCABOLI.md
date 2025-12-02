@@ -1,67 +1,80 @@
-# 📘 Vocaboli – Deutsch
+# 📘 Vocabolario – Deutsch
 
-Lista dei vocaboli che sto imparando, con articoli e traduzioni.  
-Verrà aggiornata quotidianamente.
-- Ultimo aggiornamento 01/12/2025
+Raccolta di tutte le parole che sto imparando: sostantivi, aggettivi, avverbi, pronomi, preposizioni ecc.  
+Articoli, plurali e genere solo quando necessari.
+
+- Ultimo aggiornamento 02/12/2025
 
 ---
 
 ## 👋 Saluti
-- Hallo — Ciao  
-- Guten Morgen — Buongiorno  
-- Guten Abend — Buonasera  
-- Tschüss — Ciao / Arrivederci  
+- Hallo — ciao  
+- Guten Morgen — buongiorno  
+- Guten Abend — buonasera  
+- Tschüss — ciao / arrivederci  
 
-## ❓ Domande basilari
-- Wer — Chi?  
-- Was — Cosa?  
-- Wo — Dove?  
-- Wie — Come?  
-- Wann — Quando?  
+---
+
+## ❓ Domande basilari (Pronomi interrogativi)
+- Wer — chi  
+- Was — cosa  
+- Wo — dove  
+- Wie — come  
+- Wann — quando  
+
+---
 
 ## 🧑‍🤝‍🧑 Persone / Famiglia
-- der Italiener — die Italiener — l’italiano
-- die Eltern — i genitori  
-- der Vater — die Väter — il padre
-- die Mutter — die Mütter — la madre
+- der Italiener — die Italiener — l’italiano  
+- die Eltern — (plurale) — i genitori  
+- der Vater — die Väter — il padre  
+- die Mutter — die Mütter — la madre  
 - der Sohn — die Söhne — il figlio  
-- die Tochter — die Töchter — la figlia      
+- die Tochter — die Töchter — la figlia  
 - die Schwester — die Schwestern — la sorella  
-- der Bruder — die Brüder — il fratello
-- die Großeltern — (solo plurale) — i nonni
-- die Großmutter — die Großmütter — la nonna
-- der Großvater — die Großväter — il nonno
-- der Opa — die Opas — il nonno (modo informale)
-- die Lieblingstochter — die Lieblingstöchter — la figlia preferita
-- der Mann — die Männer — l’uomo
-- die Frau — die Frauen — la donna
+- der Bruder — die Brüder — il fratello  
+- die Großeltern — (plurale) — i nonni  
+- die Großmutter — die Großmütter — la nonna  
+- der Großvater — die Großväter — il nonno  
+- der Opa — die Opas — il nonno (informale)  
+- die Lieblingstochter — die Lieblingstöchter — la figlia preferita  
+- der Mann — die Männer — l’uomo  
+- die Frau — die Frauen — la donna  
+
+---
 
 ## 🧑 Professioni / Mestieri
-- die Freundin — die Freundinnen — l’amica / la fidanzata
-- der Lehrer — die Lehrer — l’insegnante (uomo)  
-- die Lehrerin — die Lehrerinnen — l’insegnante (donna)  
-- der Bäcker — die Bäcker — il panettiere  
-- die Bäckerin — die Bäckerinnen — la panettiera  
-- der Verkäufer — die Verkäufer — il venditore  
-- der Musiker — die Musiker — il musicista  
+- die Freundin — die Freundinnen — amica / fidanzata  
+- der Lehrer — die Lehrer — insegnante (uomo)  
+- die Lehrerin — die Lehrerinnen — insegnante (donna)  
+- der Bäcker — die Bäcker — panettiere  
+- die Bäckerin — die Bäckerinnen — panettiera  
+- der Verkäufer — die Verkäufer — venditore  
+- der Musiker — die Musiker — musicista  
+
+---
 
 ## 🍽️ Cibo
 - der Käse — il formaggio  
 - das Brot — die Brote — il pane  
-- das Schnitzel — die Schnitzel — la cotoletta
-- der Keks — die Kekse — il biscotto
-- der Kaffee — il Kaffee — il caffè (in tedesco invariabile)
-- die Milch — le Milchsorten (rare) — il latte
-- der Tee — die Tees — il tè
-- das Wasser — die Wasser — l’acqua
+- das Schnitzel — die Schnitzel — la cotoletta  
+- der Keks — die Kekse — il biscotto  
+- der Kaffee — (kein Plural) — il caffè  
+- die Milch — (kein Plural) — il latte  
+- der Tee — die Tees — il tè  
+- das Wasser — (kein Plural) — l’acqua  
+
+---
 
 ## 🏙️ Luoghi
-- der Bahnhof — die Bahnhöfe — la stazione  
-- die Bäckerei — die Bäckereien — la panetteria  
-- die U-Bahn — die U-Bahnen — la metropolitana  
-- die Stadt — die Städte — la città
-- die Bibliothek — die Bibliotheken — la biblioteca
-- das Café — die Cafés — il bar / caffetteria
+- der Bahnhof — die Bahnhöfe — stazione  
+- die Bäckerei — die Bäckereien — panetteria  
+- die U-Bahn — die U-Bahnen — metropolitana  
+- die Stadt — die Städte — città  
+- die Bibliothek — die Bibliotheken — biblioteca  
+- das Café — die Cafés — bar / caffetteria  
+
+---
 
 ## 🎨 Aggettivi / Descrizioni
 - billig — economico  
@@ -75,16 +88,24 @@ Verrà aggiornata quotidianamente.
 - groß — grande / alto  
 - schön — bello  
 - klein — piccolo  
+
+---
+
+## 📍 Direzioni / Posizioni
 - links — sinistra  
-- rechts — destra
+- rechts — destra  
+- hier — qui  
+- da drüben — lì / laggiù  
 
-## 💬 Espressioni
-- Willkommen — (invariabile) — Benvenuto/Bentornato
-- wirklich groß — (aggettivo) — davvero grande / veramente grande
+---
 
-## 🔀 Varie
+## 🔤 Parti del discorso varie
 - mit — con  
 - aber — ma  
 - nicht — non  
-- hier — qui  
-- da drüben — lì / laggiù
+
+---
+
+## 💬 Espressioni utili
+- Willkommen — benvenuto / bentornato  
+- wirklich groß — davvero grande  

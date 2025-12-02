@@ -1,8 +1,8 @@
 # 🗣️ Frasi Utili – Deutsch
 
-Raccolta delle frasi che sto imparando.  
-Aggiornamento continuo.
-- Ultimo aggiornamento 01/12/2025
+Raccolta delle frasi complete che sto imparando.
+
+- Ultimo aggiornamento 02/12/2025
 
 ---
 
@@ -10,10 +10,12 @@ Aggiornamento continuo.
 - Wie heißt du? — Come ti chiami?  
 - Ich heiße Mauro — Mi chiamo Mauro  
 - Ich bin Mauro — Sono Mauro  
-- Freut mich — Piacere  
-- Freut mich auch — Piacere mio  
 - Ich bin Italiener — Sono italiano  
 - Ich wohne in Italien — Abito in Italia  
+- Freut mich — Piacere  
+- Freut mich auch — Piacere mio  
+
+---
 
 ## 💬 Conversazione base
 - Bitte — Per favore / Prego  
@@ -25,13 +27,12 @@ Aggiornamento continuo.
 - Mir geht’s schlecht — Sto male  
 - Mir geht’s nicht so gut — Non sto tanto bene  
 - Und du? — E tu?  
-- Was brauchst du? — Di cosa hai bisogno?  
 - Kein Problem — Nessun problema  
-- Sehr gut — Molto bene
-- Willkommen — (invariabile) — Benvenuto/Bentornato
+- Sehr gut — Molto bene  
+- Was brauchst du? — Di cosa hai bisogno?  
+- Willkommen — Benvenuto / Bentornato  
 
-## 💬 Espressioni / Aggettivi utili
-- wirklich groß — (aggettivo) — davvero grande / veramente grande
+---
 
 ## 👨‍👩‍👧‍👦 Famiglia
 - Das ist meine Mama — Questa è mia mamma  
@@ -43,7 +44,9 @@ Aggiornamento continuo.
 - Sie ist meine Schwester — Lei è mia sorella  
 - Er ist mein Bruder — Lui è mio fratello  
 
-## ⚙️ Strutture di base
+---
+
+## ⚙️ Strutture fondamentali
 - Ich bin — Io sono  
 - Du bist — Tu sei  
 - Er ist — Egli è  
@@ -52,7 +55,9 @@ Aggiornamento continuo.
 - Ich habe — Io ho  
 - Bist du…? — Sei…?  
 
-## 🌍 Provenienza
+---
+
+## 🌍 Provenienza e lingue
 - Ich komme aus… — Vengo da…  
 - Woher kommst du? — Da dove vieni?  
 - Welche Sprachen sprichst du? — Quali lingue parli?  
@@ -60,20 +65,26 @@ Aggiornamento continuo.
 - Ich spreche ein bisschen Deutsch — Parlo un po’ di tedesco  
 - Sprichst du Englisch? — Parli inglese?  
 
-## 📌 Identificazioni / Luoghi
+---
+
+## 📌 Luoghi e indicazioni
 - Das ist… — Questo è…  
 - Sie wohnt in Berlin — Lei vive a Berlino  
 - Wo ist das Restaurant? — Dov’è il ristorante?  
 - Das Restaurant ist hier — Il ristorante è qui  
 - Der Bahnhof ist da drüben — La stazione è laggiù  
 
-## ❓ Domande utili
+---
+
+## ❓ Domande comuni
 - Was möchtest du? — Cosa vorresti?  
 - Was für ein Buch liest du? — Che tipo di libro leggi?  
 - Ist er dein Mann? — È tuo marito?  
 - Ist dein Sohn Verkäufer? — Tuo figlio è venditore?  
 - Ist deine Frau Lehrerin? — Tua moglie è insegnante?  
 
-## 💬 Conversazione base
+---
+
+## 💬 Altre frasi utili
 - Dein Mann ist nett — Tuo marito è gentile  
 - Ja, er ist Verkäufer — Sì, è venditore
