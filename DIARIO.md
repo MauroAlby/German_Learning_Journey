@@ -146,3 +146,23 @@ Ho anche fatto controllare a ChatGPT i miei file VOCABOLI.md e FRASI.md e li abb
 Sento che concentrarmi prima sul materiale già studiato mi sta aiutando a prendere più confidenza con la lingua, e questi piccoli ascolti quotidiani sono davvero piacevoli e utili per interiorizzare i suoni e le frasi.
 
 ---
+
+# 📔 Diario – 10/12/2025
+
+È più di una settimana che non aggiorno il diario: in questi giorni sono stato molto impegnato e lo studio del tedesco è quindi andato un po’ a rilento.
+
+Come mi aveva consigliato ChatGPT, ho scaricato un’app di flashcard per il ripasso. Ho scelto **https://flashcards.world/**, che ho trovato davvero utile perché mi permette di caricare direttamente vocaboli e frasi già studiati. In questo modo ho creato delle flashcard perfettamente allineate al percorso che sto documentando qui su GitHub, e continuerò ad aggiornarle man mano che imparerò cose nuove.
+
+In generale, il sistema delle flashcard lo trovo molto efficace e mi sta aiutando a fissare meglio nella mente ciò che studio.  
+Sto anche continuando ad ascoltare molta musica in tedesco: sto creando una playlist su Spotify che in futuro condividerò nella sezione **RISORSE**.
+
+Duolingo è sempre presente: lo uso ogni giorno, anche solo per pochi minuti. Meglio poco che niente.
+
+Durante questi giorni ho anche imparato due nuove frasi:
+- **Das Geschäft ist teuer** — Il negozio è caro  
+- **Heute ist mein Geburtstag** — Oggi è il mio compleanno  
+
+---
+
+## 📝 Considerazioni finali
+Questo periodo non è stato molto produttivo e sento di aver rallentato troppo; tuttavia credo che sia una fase normale nel percorso di studio da autodidatta. Continuo senza mollare e aggiornerò il progetto non appena possibile.

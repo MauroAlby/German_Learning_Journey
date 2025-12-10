@@ -3,7 +3,7 @@
 Raccolta di tutte le parole che sto imparando: sostantivi, aggettivi, avverbi, pronomi, preposizioni ecc.  
 Articoli, plurali e genere solo quando necessari.
 
-- Ultimo aggiornamento 02/12/2025
+- Ultimo aggiornamento 10/12/2025
 
 ---
 
@@ -40,11 +40,11 @@ Articoli, plurali e genere solo quando necessari.
 - die Lieblingstochter — die Lieblingstöchter — la figlia preferita  
 - der Mann — die Männer — l’uomo  
 - die Frau — die Frauen — la donna  
+- die Freundin — die Freundinnen — amica / fidanzata
 
 ---
 
-## 🧑 Professioni / Mestieri
-- die Freundin — die Freundinnen — amica / fidanzata  
+## 🧑 Professioni / Mestieri  
 - der Lehrer — die Lehrer — insegnante (uomo)  
 - die Lehrerin — die Lehrerinnen — insegnante (donna)  
 - der Bäcker — die Bäcker — panettiere  

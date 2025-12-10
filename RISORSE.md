@@ -22,6 +22,9 @@ Una raccolta semplice e diretta dei contenuti che utilizzo o che consiglio per i
 - **Duolingo**  
   https://www.duolingo.com/
 
+-**Flashcard**
+  https://flashcards.world/
+
 ---
 
 ## 🎥 TikTok

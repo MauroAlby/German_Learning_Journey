@@ -2,7 +2,7 @@
 
 Raccolta delle frasi complete che sto imparando.
 
-- Ultimo aggiornamento 02/12/2025
+- Ultimo aggiornamento 10/12/2025
 
 ---
 
@@ -88,3 +88,5 @@ Raccolta delle frasi complete che sto imparando.
 ## 💬 Altre frasi utili
 - Dein Mann ist nett — Tuo marito è gentile  
 - Ja, er ist Verkäufer — Sì, è venditore
+- Das Geschäft ist teuer — Il negozio è caro  
+- Heute ist mein Geburtstag — Oggi è il mio compleanno
