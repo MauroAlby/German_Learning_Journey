@@ -166,3 +166,48 @@ Durante questi giorni ho anche imparato due nuove frasi:
 
 ## 📝 Considerazioni finali
 Questo periodo non è stato molto produttivo e sento di aver rallentato troppo; tuttavia credo che sia una fase normale nel percorso di studio da autodidatta. Continuo senza mollare e aggiornerò il progetto non appena possibile.
+
+---
+
+# 📔 Diario – 13/12/2025
+
+In questi ultimi tre giorni sono andato avanti con **Duolingo** e ho continuato a studiare con una certa costanza. Durante questo periodo ho imparato nuovi **vocaboli** e **frasi**, in particolare legati allo **sport**.
+
+### 📚 Vocaboli e frasi studiate in questi giorni
+- sportlich  
+- Sport  
+- schwimmen  
+- joggen  
+- wandern  
+- Fußball  
+- Tennis  
+- oft  
+- nie  
+- nicht  
+- machen  
+- mache  
+- machst  
+- macht  
+- traurig  
+- Schwimmt deine Schwester?  
+- Ich wandere oft  
+- Ich jogge nie  
+- Ich schwimme nie, und du?  
+- Wandert deine Tochter oft?  
+- Spielst du Tennis?  
+- Ja, ich spiele Tennis  
+- Ich mache nie Sport, und du?  
+- Machst du oft Sport?  
+- Ich bin sehr traurig  
+- Es tut mir leid  
+- Ich liebe dich  
+- Ich liebe dich auch  
+
+Mi rendo conto sempre di più che **dovrei studiare la grammatica in modo più serio**.  
+L’approccio “ascolta, ripeti e buttati” funziona molto bene all’inizio, ma andando avanti diventa sempre più complicato: sento proprio il bisogno di **capire le strutture**, non solo di memorizzare frasi.
+
+Continuo comunque con l’ascolto: **musica tedesca** ogni giorno e, da poco, ho scaricato un’altra app per l’apprendimento delle lingue chiamata **Rosetta Stone**, che sembra davvero promettente. Vedremo nel tempo se si integrerà bene con il resto del mio metodo di studio.
+
+### 📝 Considerazioni finali
+Il tedesco si sta rivelando, come previsto, **una lingua bella tosta da studiare**, ma l’idea di impararla e, chissà, in futuro riuscire ad avere anche solo **un minimo di conversazione o interazione**, mi entusiasma molto.  
+Sono proprio queste le cose che fanno la differenza e che mi spingono a continuare.

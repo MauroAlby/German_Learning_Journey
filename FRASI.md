@@ -2,7 +2,7 @@
 
 Raccolta delle frasi complete che sto imparando.
 
-- Ultimo aggiornamento 10/12/2025
+- Ultimo aggiornamento 13/12/2025
 
 ---
 
@@ -18,19 +18,33 @@ Raccolta delle frasi complete che sto imparando.
 ---
 
 ## 💬 Conversazione base
-- Bitte — Per favore / Prego  
-- Danke — Grazie  
-- Entschuldigung — Scusa / Mi scusi  
 - Wie geht’s dir? — Come stai?  
 - Wie geht’s? — Come va?  
-- Mir geht’s gut — Sto bene  
-- Mir geht’s schlecht — Sto male  
-- Mir geht’s nicht so gut — Non sto tanto bene  
 - Und du? — E tu?  
 - Kein Problem — Nessun problema  
 - Sehr gut — Molto bene  
-- Was brauchst du? — Di cosa hai bisogno?  
-- Willkommen — Benvenuto / Bentornato  
+
+---
+
+## 🙏 Cortesia e scuse
+- Bitte — Per favore / Prego  
+- Danke — Grazie  
+- Entschuldigung — Scusa / Mi scusi  
+- Es tut mir leid — Mi dispiace  
+
+---
+
+## 💭 Emozioni e stati d’animo
+- Mir geht’s gut — Sto bene  
+- Mir geht’s schlecht — Sto male  
+- Mir geht’s nicht so gut — Non sto tanto bene  
+- Ich bin sehr traurig — Sono molto triste  
+
+---
+
+## ❤️ Sentimenti e relazioni
+- Ich liebe dich — Ti amo  
+- Ich liebe dich auch — Ti amo anch’io  
 
 ---
 
@@ -76,6 +90,19 @@ Raccolta delle frasi complete che sto imparando.
 
 ---
 
+## 🏃 Sport e abitudini
+- Schwimmt deine Schwester? — Tua sorella nuota?  
+- Ich wandere oft — Faccio spesso escursioni  
+- Ich jogge nie — Non faccio mai jogging  
+- Ich schwimme nie, und du? — Non nuoto mai, e tu?  
+- Wandert deine Tochter oft? — Tua figlia fa spesso escursioni?  
+- Spielst du Tennis? — Giochi a tennis?  
+- Ja, ich spiele Tennis — Sì, gioco a tennis  
+- Ich mache nie Sport, und du? — Non faccio mai sport, e tu?  
+- Machst du oft Sport? — Fai spesso sport?  
+
+---
+
 ## ❓ Domande comuni
 - Was möchtest du? — Cosa vorresti?  
 - Was für ein Buch liest du? — Che tipo di libro leggi?  
@@ -85,8 +112,8 @@ Raccolta delle frasi complete che sto imparando.
 
 ---
 
-## 💬 Altre frasi utili
+## 🛍️ Vita quotidiana
 - Dein Mann ist nett — Tuo marito è gentile  
-- Ja, er ist Verkäufer — Sì, è venditore
+- Ja, er ist Verkäufer — Sì, è venditore  
 - Das Geschäft ist teuer — Il negozio è caro  
-- Heute ist mein Geburtstag — Oggi è il mio compleanno
+- Heute ist mein Geburtstag — Oggi è il mio compleanno  

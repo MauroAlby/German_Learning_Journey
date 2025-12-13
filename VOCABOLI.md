@@ -3,7 +3,7 @@
 Raccolta di tutte le parole che sto imparando: sostantivi, aggettivi, avverbi, pronomi, preposizioni ecc.  
 Articoli, plurali e genere solo quando necessari.
 
-- Ultimo aggiornamento 10/12/2025
+- Ultimo aggiornamento 13/12/2025
 
 ---
 
@@ -40,11 +40,11 @@ Articoli, plurali e genere solo quando necessari.
 - die Lieblingstochter — die Lieblingstöchter — la figlia preferita  
 - der Mann — die Männer — l’uomo  
 - die Frau — die Frauen — la donna  
-- die Freundin — die Freundinnen — amica / fidanzata
+- die Freundin — die Freundinnen — amica / fidanzata  
 
 ---
 
-## 🧑 Professioni / Mestieri  
+## 🧑 Professioni / Mestieri
 - der Lehrer — die Lehrer — insegnante (uomo)  
 - die Lehrerin — die Lehrerinnen — insegnante (donna)  
 - der Bäcker — die Bäcker — panettiere  
@@ -76,6 +76,17 @@ Articoli, plurali e genere solo quando necessari.
 
 ---
 
+## 🏃 Sport e attività
+- Sport — sport  
+- sportlich — sportivo  
+- schwimmen — nuotare  
+- joggen — fare jogging  
+- wandern — fare escursioni  
+- Fußball — calcio  
+- Tennis — tennis  
+
+---
+
 ## 🎨 Aggettivi / Descrizioni
 - billig — economico  
 - hungrig — affamato  
@@ -88,6 +99,14 @@ Articoli, plurali e genere solo quando necessari.
 - groß — grande / alto  
 - schön — bello  
 - klein — piccolo  
+- traurig — triste  
+
+---
+
+## ⏱️ Avverbi / Negazione
+- oft — spesso  
+- nicht — non  
+- nie — mai  
 
 ---
 
@@ -102,10 +121,17 @@ Articoli, plurali e genere solo quando necessari.
 ## 🔤 Parti del discorso varie
 - mit — con  
 - aber — ma  
-- nicht — non  
+
+---
+
+## 🔧 Verbi
+- machen — fare  
+- mache — faccio  
+- machst — fai  
+- macht — fa  
 
 ---
 
 ## 💬 Espressioni utili
 - Willkommen — benvenuto / bentornato  
-- wirklich groß — davvero grande  
+- wirklich groß — davvero grande
